@@ -1,3 +1,7 @@
+# App demo
+
+Click [here](https://drive.google.com/open?id=1VBburnQ3lWGABqD07V16IZmI0mwyHxEH) to watch a demo of the app.
+
 # React Testing
 
 This module builds upon the topic of client-side testing by extending it into the realm of React.
